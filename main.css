@@ -1,0 +1,162 @@
+body {
+    padding: 5px;
+}
+
+.row-first {
+    padding: 1px;
+    height:80%;
+  }
+
+.st1{
+    fill:chocolate;
+    stroke:#000000;
+    stroke-miterlimit:10;
+}
+
+.st2{
+    fill:yellow;
+    stroke:#000000;
+    stroke-miterlimit:10;
+}
+
+.st3{
+    fill:crimson;
+    stroke:#000000;
+    stroke-miterlimit:10;
+}
+
+.st4{
+    fill:wheat;
+    stroke:#000000;
+    stroke-miterlimit:10;
+}
+
+.st5{
+    fill:turquoise;
+    stroke:#000000;
+    stroke-miterlimit:10;
+}
+
+.st6{
+    fill: slateblue;
+    stroke:#000000;
+    stroke-miterlimit:10;
+}
+
+.st7{
+    fill: darkorange;
+    stroke:#000000;
+    stroke-miterlimit:10;
+}
+
+.st8{
+    fill: lightsteelblue;
+    stroke:#000000;
+    stroke-miterlimit:10;
+}
+
+.st9{
+    fill:yellowgreen;
+    stroke:#000000;
+    stroke-miterlimit:10;
+}
+
+.st10{
+    fill:#2693D3;
+    stroke:#000000;
+    stroke-miterlimit:10;
+}
+
+.st1:hover{
+    fill:grey;
+    cursor: pointer;
+}
+
+.st2:hover{
+    fill:grey;
+    cursor: pointer;
+}
+
+.st3:hover{
+    fill:grey;
+    cursor: pointer;
+}
+
+.st4:hover{
+    fill:grey;
+    cursor: pointer;
+}
+
+.st5:hover{
+    fill:grey;
+    cursor: pointer;
+}
+
+.st6:hover{
+    fill:grey;
+    cursor: pointer;
+}
+
+.st7:hover{
+    fill:grey;
+    cursor: pointer;
+}
+
+.st8:hover{
+    fill:grey;
+    cursor: pointer;
+}
+
+.st9:hover{
+    fill:grey;
+    cursor: pointer;
+}
+
+.st10:hover{
+    fill:grey;
+    cursor: pointer;
+}
+
+.st1.selected{
+    fill:grey;
+}
+
+.st2.selected{
+    fill:grey;
+}
+
+.st3.selected{
+    fill:grey;
+}
+
+.st4.selected{
+    fill:grey;
+}
+
+.st5.selected{
+    fill:grey;
+}
+
+.st6.selected{
+    fill:grey;
+}
+
+.st7.selected{
+    fill:grey;
+}
+
+.st8.selected{
+    fill:grey;
+}
+
+.st9.selected{
+    fill:grey;
+}
+
+.st10.selected{
+    fill:grey;
+}
+
+img {
+    height: 50%;
+  }
