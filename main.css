@@ -160,3 +160,7 @@ body {
 img {
     height: 50%;
   }
+
+table{
+    text-align: center;
+}
